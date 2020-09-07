@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace _3rd_Semester_Project {
-    class Program {
+    class Run {
         static void Main(string[] args) {
         }
     }
